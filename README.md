@@ -1,105 +1,36 @@
 <div align="center">
-  <img src="./assets/samurai-hero.png" alt="Ilustração em sumi-e de um samurai com uma katana sob a lua" width="100%" />
-</div>
-
-<div align="center">
 
 # Pedro Artur
 
 ### Estagiário em Engenharia de Software · Sistemas de Informação
 
-**Construindo sistemas com disciplina de samurai: observar, projetar, executar e evoluir.**
-
-[LinkedIn](https://www.linkedin.com/in/pedroart-bm/) · [Email](mailto:pedroart2611@gmail.com) · Rio de Janeiro, RJ
+Rio de Janeiro, RJ · [LinkedIn](https://www.linkedin.com/in/pedroart-bm/) · [pedroart2611@gmail.com](mailto:pedroart2611@gmail.com)
 
 </div>
 
-<div align="center">
-  <a href="https://dribbble.com/shots/4082533-Sword">
-    <img src="https://cdn.dribbble.com/userupload/22460557/file/original-f37d93c592d125dac764747df8ae16e1.gif" alt="Animação de samurai com katana, por Marvin Te no Dribbble" width="380" />
-  </a>
-  <br />
-  <sub>Animação de katana por <a href="https://dribbble.com/shots/4082533-Sword">Marvin Te</a>.</sub>
-</div>
+## Sobre
 
-## Sobre mim
+Sou estagiário em Engenharia de Software e estudante de Sistemas de Informação. Gosto de construir produtos completos, passando por descoberta do problema, regras de negócio, arquitetura, interface, APIs, dados e operação.
 
-Eu sou **Pedro Artur**, estagiário em Engenharia de Software e estudante de Sistemas de Informação.
+Meu foco atual está em backend, agentes de IA, automações e sistemas internos. Busco criar software útil, seguro e preparado para evoluir.
 
-Meu interesse está em construir produtos completos: entender um problema, transformar a ideia em regras de negócio, modelar os dados, desenvolver a aplicação e cuidar para que ela continue funcionando depois de ir para produção.
+## Em foco, Hermix
 
-Hoje trabalho principalmente com **backend, agentes de IA, automações, APIs e sistemas internos**. Gosto especialmente da parte em que engenharia deixa de ser apenas código e passa a envolver produto, experiência, segurança, operação e decisões reais.
+O **Hermix** é um sistema interno de agentes de IA que desenvolvo de ponta a ponta na MB Finance. É o principal case da minha trajetória profissional até aqui.
 
-```text
-localização      Rio de Janeiro, Brasil
-atuação atual    Estagiário em Engenharia de Software
-formação         Sistemas de Informação
-interesses       IA aplicada · automações · produto · arquitetura
-```
+| Produto | Engenharia | Operação |
+| :--- | :--- | :--- |
+| Nome, identidade, UX e regras de negócio | React, Node.js, Express, PostgreSQL, OpenAI Responses API | VPS Linux, PM2, Nginx, auditoria e permissões |
 
-## A jornada até aqui
+O sistema centraliza a gestão, os testes, o versionamento e a governança de agentes. Inclui clonagem e publicação de versões, playground interno, conversas, File Search, Code Interpreter, Function Calling com allowlist, gestão de usuários e permissões granulares.
 
-### 01 · Conferência de Cartas
+> O código do Hermix é privado. Este perfil mostra apenas o escopo técnico que pode ser divulgado, sem código, credenciais, domínios, IPs ou dados de negócio.
 
-Antes de atuar profissionalmente com tecnologia, eu trabalhava como **jovem aprendiz em uma área que não tinha relação com TI**. Mesmo assim, por iniciativa própria, criei um sistema de **conferência de cartas** para resolver uma necessidade do meu ambiente de trabalho.
-
-Esse projeto representa o começo da minha jornada: perceber um problema, estudar o necessário e criar uma ferramenta útil mesmo sem estar formalmente na área de desenvolvimento.
-
-### 02 · Unimangas
-
-No **segundo período da graduação**, desenvolvi o Unimangas como trabalho acadêmico. Apesar de ser um projeto de faculdade, ele registra uma etapa importante da minha evolução: sair de experimentos individuais e começar a pensar em uma aplicação com interface, organização de conteúdo e experiência de uso.
-
-### 03 · Hermix
-
-Hoje, o Hermix é o projeto que mais representa minha evolução técnica e profissional.
-
-## Hermix, meu principal case de engenharia
-
-O **Hermix** é um sistema interno de agentes de IA da MB Finance, criado para administrar, testar, versionar e governar agentes integrados à OpenAI Responses API, tools, automações e sistemas internos.
-
-Eu desenvolvo o Hermix **do zero e de ponta a ponta**. Isso inclui:
-
-* criação do nome e da identidade visual;
-* definição da arquitetura e das regras de negócio;
-* frontend em React/Vite/Tailwind CSS;
-* backend em Node.js/Express;
-* modelagem e evolução do PostgreSQL/Neon;
-* autenticação, permissões e perfis de acesso;
-* versionamento, clonagem, publicação e arquivamento de agentes;
-* playground para testes internos e conversas com agentes;
-* integração com Responses API, File Search, Code Interpreter e Function Calling;
-* auditoria operacional e contexto de requisição;
-* uploads temporários e downloads seguros;
-* deploy e operação em VPS Linux com PM2 e Nginx.
-
-### O que estou construindo
-
-```text
-React / Vite / Tailwind
-          │
-          ▼
-Node.js / Express / REST API
-          │
-          ├── PostgreSQL / Neon
-          ├── OpenAI Responses API
-          ├── File Search + Code Interpreter
-          ├── Functions internas com allowlist
-          └── Base para n8n, WhatsApp e sistemas internos
-```
-
-O código do Hermix é privado. Este perfil apresenta apenas responsabilidades, decisões técnicas e capacidades que podem ser divulgadas; nenhum código, token, domínio, IP, dado de cliente ou detalhe operacional sensível é exposto aqui.
-
-> As contribuições privadas podem aparecer anonimizadas no gráfico de atividade do GitHub. A quantidade específica de commits do Hermix será adicionada somente quando estiver validada e autorizada para divulgação.
-
-## Stack e ferramentas
-
-### Desenvolvimento
+## Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,react,vite,tailwind,postgres,redis,docker,linux&theme=light" alt="Node.js, Express, React, Vite, Tailwind CSS, PostgreSQL, Redis, Docker e Linux" />
 </div>
-
-### IA, automação e infraestrutura
 
 <div align="center">
   <img src="https://img.shields.io/badge/OpenAI_Responses_API-292524?style=for-the-badge&logo=openai&logoColor=F5F5F4" alt="OpenAI Responses API" />
@@ -109,47 +40,35 @@ O código do Hermix é privado. Este perfil apresenta apenas responsabilidades, 
   <img src="https://img.shields.io/badge/REST_APIs-292524?style=for-the-badge&logoColor=DC2626" alt="REST APIs" />
 </div>
 
-## O que esses projetos mostram
+## Trajetória
 
-| Etapa | Projeto | O que aprendi construindo |
-| --- | --- | --- |
-| Iniciativa | Conferência de Cartas | Tecnologia pode nascer de uma necessidade real, mesmo fora da área de TI. |
-| Formação | Unimangas | Como transformar um trabalho acadêmico em uma aplicação organizada e utilizável. |
-| Profissional | Hermix | Como conduzir um produto completo: ideia, domínio, arquitetura, código, segurança e operação. |
-
-Minha evolução não aconteceu apenas pela quantidade de tecnologias estudadas. Ela aconteceu porque cada projeto me obrigou a assumir mais responsabilidade sobre o resultado final.
+| Projeto | Contexto | Evolução |
+| :--- | :--- | :--- |
+| Conferência de Cartas | Projeto voluntário no meu trabalho anterior como jovem aprendiz, fora da área de TI | Meu primeiro sistema criado para resolver uma necessidade real |
+| Unimangas | Trabalho do segundo período de Sistemas de Informação | Interface, organização de conteúdo e experiência de uso |
+| Hermix | Sistema interno de agentes de IA | Produto completo, engenharia, segurança e operação |
 
 ## Contribuições
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedro-art2611/pedroart2611/output/ryu-contribution-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedro-art2611/pedroart2611/output/ryu-contribution.svg" />
-    <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/pedro-art2611/pedroart2611/output/ryu-contribution.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedro-art2611/pedroart2611/output/contribution-dojo-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedro-art2611/pedroart2611/output/contribution-dojo.svg" />
+    <img alt="Calendário real de contribuições com animação em estilo japonês" src="https://raw.githubusercontent.com/pedro-art2611/pedroart2611/output/contribution-dojo.svg" />
   </picture>
 </div>
 
 ## Motivação
 
 <div align="center">
-  <a href="https://preview.redd.it/i5cldcswcxs51.gif?width=743&format=mp4&s=7fbe936937ed64ad292bf79b92cecd6c17a708f4">
-    <img src="https://preview.redd.it/i5cldcswcxs51.gif?width=743&format=gif&s=7fbe936937ed64ad292bf79b92cecd6c17a708f4" alt="Vergil em pixel art empunhando a Yamato" width="360" />
-  </a>
+  <img src="https://i.redd.it/i5cldcswcxs51.gif" alt="Vergil em pixel art empunhando a Yamato" width="360" />
   <br />
   <sub><i>Show me your motivation.</i> · Me mostre sua motivação.</sub>
 </div>
 
-## Vamos conversar?
-
-Tenho interesse em conversar sobre engenharia de software, agentes de IA, automações, backend e construção de produtos.
+## Contato
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pedroart-bm/"><img src="https://img.shields.io/badge/LinkedIn- Pedro Artur-7F1D1D?style=for-the-badge&logo=linkedin&logoColor=FEF3C7" alt="LinkedIn de Pedro Artur" /></a>
+  <a href="https://www.linkedin.com/in/pedroart-bm/"><img src="https://img.shields.io/badge/LinkedIn-Pedro%20Artur-7F1D1D?style=for-the-badge&logo=linkedin&logoColor=FEF3C7" alt="LinkedIn de Pedro Artur" /></a>
   <a href="mailto:pedroart2611@gmail.com"><img src="https://img.shields.io/badge/Email-pedroart2611%40gmail.com-292524?style=for-the-badge&logo=gmail&logoColor=FEF3C7" alt="Email de Pedro Artur" /></a>
-</div>
-
-<br />
-
-<div align="center">
-  <sub>一歩ずつ, um passo de cada vez.</sub>
 </div>

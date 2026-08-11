@@ -94,15 +94,11 @@ O código do Hermix é privado. Este perfil apresenta apenas responsabilidades, 
 ### IA, automação e infraestrutura
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/openai/7F1D1D" width="46" height="46" alt="OpenAI Responses API" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/redis/7F1D1D" width="46" height="46" alt="Redis e BullMQ" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/n8n/7F1D1D" width="46" height="46" alt="n8n" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/elevenlabs/7F1D1D" width="46" height="46" alt="ElevenLabs" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/fastapi/7F1D1D" width="46" height="46" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/OpenAI_Responses_API-292524?style=for-the-badge&logo=openai&logoColor=F5F5F4" alt="OpenAI Responses API" />
+  <img src="https://img.shields.io/badge/Redis_%2B_BullMQ-292524?style=for-the-badge&logo=redis&logoColor=DC2626" alt="Redis e BullMQ" />
+  <img src="https://img.shields.io/badge/n8n-292524?style=for-the-badge&logo=n8n&logoColor=EA580C" alt="n8n" />
+  <img src="https://img.shields.io/badge/ElevenLabs-292524?style=for-the-badge&logoColor=F5F5F4" alt="ElevenLabs" />
+  <img src="https://img.shields.io/badge/REST_APIs-292524?style=for-the-badge&logoColor=DC2626" alt="REST APIs" />
 </div>
 
 ## O que esses projetos mostram
@@ -121,7 +117,7 @@ Minha evolução não aconteceu apenas pela quantidade de tecnologias estudadas.
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedro-art2611/pedroart2611/output/ryu-contribution-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedro-art2611/pedroart2611/output/ryu-contribution.svg" />
-    <img alt="Animação de um ryu percorrendo as contribuições do GitHub" src="https://raw.githubusercontent.com/pedro-art2611/pedroart2611/output/ryu-contribution.svg" />
+    <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/pedro-art2611/pedroart2611/output/ryu-contribution.svg" />
   </picture>
 </div>
 

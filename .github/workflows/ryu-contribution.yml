@@ -1,0 +1,32 @@
+name: Generate ryu contribution animation
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generate contribution animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/ryu-contribution.svg?color_snake=#991B1B&color_dots=#F5EBDD,#F3D2B5,#E68A67,#B91C1C,#7F1D1D
+            dist/ryu-contribution-dark.svg?color_snake=#F59E0B&color_dots=#1C1917,#3F1D1D,#7F1D1D,#B91C1C,#F59E0B
+
+      - name: Publish generated SVGs
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

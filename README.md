@@ -14,10 +14,6 @@
 
 </div>
 
-<div align="center">
-  <img src="./assets/katana-slash.svg" alt="Animação de uma katana realizando um corte" width="92%" />
-</div>
-
 ## Sobre mim
 
 Eu sou **Pedro Artur**, estagiário em Engenharia de Software e estudante de Sistemas de Informação.
@@ -32,12 +28,6 @@ atuação atual    Estagiário em Engenharia de Software
 formação         Sistemas de Informação
 interesses       IA aplicada · automações · produto · arquitetura
 ```
-
-<div align="center">
-  <img src="./assets/inner-peace.svg" alt="Símbolo oriental com o kanji 安, uma katana e um dragão" width="280" />
-  <br />
-  <sub>安 representa a paz interior que levo comigo enquanto continuo evoluindo.</sub>
-</div>
 
 ## A jornada até aqui
 
@@ -54,10 +44,6 @@ No **segundo período da graduação**, desenvolvi o Unimangas como trabalho aca
 ### 03 · Hermix
 
 Hoje, o Hermix é o projeto que mais representa minha evolução técnica e profissional.
-
-<div align="center">
-  <img src="./assets/hermix-emblem.svg" alt="Emblema Hermix, sistema interno de agentes de IA" width="310" />
-</div>
 
 ## Hermix, meu principal case de engenharia
 
@@ -108,17 +94,15 @@ O código do Hermix é privado. Este perfil apresenta apenas responsabilidades, 
 ### IA, automação e infraestrutura
 
 <div align="center">
-  <img src="https://img.shields.io/badge/OpenAI_Responses_API-292524?style=for-the-badge&logo=openai&logoColor=F5F5F4" alt="OpenAI Responses API" />
-  <img src="https://img.shields.io/badge/Redis_%2B_BullMQ-292524?style=for-the-badge&logo=redis&logoColor=DC2626" alt="Redis e BullMQ" />
-  <img src="https://img.shields.io/badge/n8n-292524?style=for-the-badge&logo=n8n&logoColor=EA580C" alt="n8n" />
-  <img src="https://img.shields.io/badge/ElevenLabs-292524?style=for-the-badge&logoColor=F5F5F4" alt="ElevenLabs" />
-  <img src="https://img.shields.io/badge/REST_APIs-292524?style=for-the-badge&logoColor=DC2626" alt="REST APIs" />
-  <br />
-  <img src="https://img.shields.io/badge/PM2-292524?style=for-the-badge&logo=pm2&logoColor=FEF3C7" alt="PM2" />
-  <img src="https://img.shields.io/badge/Nginx-292524?style=for-the-badge&logo=nginx&logoColor=16A34A" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Axios-292524?style=for-the-badge&logo=axios&logoColor=60A5FA" alt="Axios" />
-  <img src="https://img.shields.io/badge/JSON_Web_Tokens-292524?style=for-the-badge&logo=jsonwebtokens&logoColor=FACC15" alt="JSON Web Tokens" />
-  <img src="https://img.shields.io/badge/JavaScript-292524?style=for-the-badge&logo=javascript&logoColor=FACC15" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/openai/7F1D1D" width="46" height="46" alt="OpenAI Responses API" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/redis/7F1D1D" width="46" height="46" alt="Redis e BullMQ" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/7F1D1D" width="46" height="46" alt="n8n" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/elevenlabs/7F1D1D" width="46" height="46" alt="ElevenLabs" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi/7F1D1D" width="46" height="46" alt="REST APIs" />
 </div>
 
 ## O que esses projetos mostram
@@ -131,22 +115,14 @@ O código do Hermix é privado. Este perfil apresenta apenas responsabilidades, 
 
 Minha evolução não aconteceu apenas pela quantidade de tecnologias estudadas. Ela aconteceu porque cada projeto me obrigou a assumir mais responsabilidade sobre o resultado final.
 
-## Pergaminho de atividade
+## Contribuições
 
 <div align="center">
-  <img src="./assets/contribution-scroll.svg" alt="Pergaminho animado inspirado em um dragão acompanhando uma grade de atividade" width="100%" />
-</div>
-
-<div align="center">
-  <sub>Uma interpretação visual da minha atividade no GitHub. O gráfico oficial continua disponível no perfil.</sub>
-</div>
-
-## Easter egg, motivação
-
-<div align="center">
-  <img src="./assets/vergil-easter-egg.svg" alt="Vergil em pixel art com a frase Show me your motivation" width="100%" />
-  <br />
-  <sub>Uma homenagem em pixel art ao espadachim mais estiloso dos jogos.</sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedro-art2611/pedroart2611/output/ryu-contribution-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedro-art2611/pedroart2611/output/ryu-contribution.svg" />
+    <img alt="Animação de um ryu percorrendo as contribuições do GitHub" src="https://raw.githubusercontent.com/pedro-art2611/pedroart2611/output/ryu-contribution.svg" />
+  </picture>
 </div>
 
 ## Vamos conversar?

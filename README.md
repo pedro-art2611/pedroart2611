@@ -14,6 +14,14 @@
 
 </div>
 
+<div align="center">
+  <a href="https://dribbble.com/shots/4082533-Sword">
+    <img src="https://cdn.dribbble.com/userupload/22460557/file/original-f37d93c592d125dac764747df8ae16e1.gif" alt="Animação de samurai com katana, por Marvin Te no Dribbble" width="380" />
+  </a>
+  <br />
+  <sub>Animação de katana por <a href="https://dribbble.com/shots/4082533-Sword">Marvin Te</a>.</sub>
+</div>
+
 ## Sobre mim
 
 Eu sou **Pedro Artur**, estagiário em Engenharia de Software e estudante de Sistemas de Informação.

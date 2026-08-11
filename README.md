@@ -129,6 +129,16 @@ Minha evolução não aconteceu apenas pela quantidade de tecnologias estudadas.
   </picture>
 </div>
 
+## Motivação
+
+<div align="center">
+  <a href="https://preview.redd.it/i5cldcswcxs51.gif?width=743&format=mp4&s=7fbe936937ed64ad292bf79b92cecd6c17a708f4">
+    <img src="https://preview.redd.it/i5cldcswcxs51.gif?width=743&format=gif&s=7fbe936937ed64ad292bf79b92cecd6c17a708f4" alt="Vergil em pixel art empunhando a Yamato" width="360" />
+  </a>
+  <br />
+  <sub><i>Show me your motivation.</i> · Me mostre sua motivação.</sub>
+</div>
+
 ## Vamos conversar?
 
 Tenho interesse em conversar sobre engenharia de software, agentes de IA, automações, backend e construção de produtos.

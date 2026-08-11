@@ -1,0 +1,34 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Vergil pixel art, Show me your motivation</title>
+  <desc id="desc">Uma homenagem animada em pixel art a Vergil, com seu casaco azul e sua katana.</desc>
+  <defs>
+    <pattern id="paper" width="24" height="24" patternUnits="userSpaceOnUse">
+      <rect width="24" height="24" fill="#F5EBDD"/>
+      <path d="M0 23H24M23 0V24" stroke="#7F1D1D" stroke-opacity=".05"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#7F1D1D" flood-opacity=".2"/>
+    </filter>
+  </defs>
+  <rect x="18" y="18" width="1164" height="394" rx="16" fill="url(#paper)" stroke="#991B1B" stroke-width="4" filter="url(#shadow)"/>
+  <circle cx="190" cy="215" r="118" fill="#B91C1C" opacity=".12">
+    <animate attributeName="opacity" values=".08;.2;.08" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M58 345C238 282 340 270 503 311" stroke="#991B1B" stroke-width="4" stroke-linecap="round" stroke-dasharray="2 16"/>
+  <g transform="translate(55 84)">
+    <text x="0" y="52" fill="#7F1D1D" font-family="Georgia, serif" font-size="23" letter-spacing="6">THE SWORDSMAN'S CALL</text>
+    <text x="0" y="132" fill="#292524" font-family="Georgia, serif" font-size="48" font-weight="700">SHOW ME YOUR</text>
+    <text x="0" y="190" fill="#991B1B" font-family="Georgia, serif" font-size="58" font-weight="700">MOTIVATION</text>
+    <text x="0" y="240" fill="#57534E" font-family="ui-monospace, monospace" font-size="18" letter-spacing="2">ME MOSTRE SUA MOTIVAÇÃO</text>
+    <path d="M0 270H420" stroke="#991B1B" stroke-width="3"/>
+    <text x="0" y="308" fill="#7F1D1D" font-family="ui-monospace, monospace" font-size="14" letter-spacing="3">安 · DISCIPLINE · PURPOSE</text>
+    <animateTransform attributeName="transform" type="translate" values="55 84;55 78;55 84" dur="4s" repeatCount="indefinite"/>
+  </g>
+  <g transform="translate(785 22)" filter="url(#shadow)">
+    <image href="vergil-pixel.png" x="0" y="0" width="330" height="390" preserveAspectRatio="xMidYMid meet"/>
+    <animateTransform attributeName="transform" type="translate" values="785 22;785 13;785 22" dur="4s" repeatCount="indefinite"/>
+  </g>
+  <path d="M693 327L1137 198" stroke="#991B1B" stroke-width="4" stroke-linecap="round" opacity=".55">
+    <animate attributeName="stroke-dasharray" values="0 1000;520 480;0 1000" dur="3s" repeatCount="indefinite"/>
+  </path>
+</svg>

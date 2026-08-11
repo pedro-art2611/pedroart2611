@@ -1,0 +1,21 @@
+<svg width="560" height="300" viewBox="0 0 560 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">安, paz interior</title>
+  <desc id="desc">O kanji 安 dentro de um círculo de tinta, atravessado por uma katana e envolvido por um dragão oriental.</desc>
+  <defs>
+    <filter id="ink" x="-20%" y="-20%" width="140%" height="140%">
+      <feTurbulence type="fractalNoise" baseFrequency=".03" numOctaves="2" seed="4" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="2"/>
+    </filter>
+  </defs>
+  <g filter="url(#ink)" stroke="#991B1B" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M125 150C120 72 190 26 280 30C374 24 443 78 437 150C445 223 371 270 280 268C183 273 114 221 125 150Z" stroke-width="10" opacity=".82"/>
+    <path d="M87 174C50 144 59 88 103 69C74 117 102 172 152 198C204 226 248 224 284 204C331 177 364 121 415 112C458 104 492 135 478 177C463 219 413 225 381 201C414 205 442 184 438 160C433 129 397 130 370 160C336 199 302 234 242 234C177 235 124 211 87 174Z" stroke-width="6"/>
+    <path d="M408 111L442 91L432 116L458 126L421 132M104 70L75 50L87 78L62 91" stroke-width="5"/>
+    <path d="M76 195L52 217M99 216L82 244M461 196L486 218M439 218L455 246" stroke-width="4"/>
+    <path d="M28 231L503 62" stroke="#F5F5F4" stroke-width="11"/>
+    <path d="M28 231L503 62" stroke="#57534E" stroke-width="2"/>
+    <path d="M29 230L57 241" stroke="#292524" stroke-width="16"/>
+    <circle cx="63" cy="228" r="18" stroke="#B45309" stroke-width="5"/>
+  </g>
+  <text x="280" y="177" text-anchor="middle" fill="#991B1B" font-family="serif" font-size="118" font-weight="700">安</text>
+</svg>

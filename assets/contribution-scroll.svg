@@ -1,0 +1,41 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Pergaminho de atividade com dragão animado</title>
+  <desc id="desc">Uma grade de contribuições em tons de vermelho e dourado com um dragão de tinta percorrendo o caminho.</desc>
+  <defs>
+    <pattern id="paper" width="28" height="28" patternUnits="userSpaceOnUse">
+      <rect width="28" height="28" fill="#F5EBDD"/>
+      <path d="M0 27H28M27 0V28" stroke="#7F1D1D" stroke-opacity=".06"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-50%" width="140%" height="200%">
+      <feDropShadow dx="0" dy="5" stdDeviation="4" flood-color="#7F1D1D" flood-opacity=".25"/>
+    </filter>
+  </defs>
+  <rect x="16" y="14" width="1168" height="232" rx="14" fill="url(#paper)" stroke="#991B1B" stroke-width="4" filter="url(#shadow)"/>
+  <path d="M42 58H1158" stroke="#991B1B" stroke-width="2" opacity=".5"/>
+  <text x="54" y="45" fill="#7F1D1D" font-family="Georgia, serif" font-size="19" font-weight="700">PERGAMINHO DE ATIVIDADE</text>
+  <text x="1146" y="45" text-anchor="end" fill="#7F1D1D" font-family="ui-monospace, monospace" font-size="12" letter-spacing="2">PEDRO ARTUR</text>
+
+  <g transform="translate(56 78)">
+    <g fill="#D6C3A5">
+      <rect x="0" y="0" width="18" height="18" rx="3"/><rect x="0" y="28" width="18" height="18" rx="3"/><rect x="0" y="56" width="18" height="18" rx="3"/><rect x="0" y="84" width="18" height="18" rx="3"/>
+    </g>
+    <g fill="#E7D8C1">
+      <rect x="28" y="0" width="18" height="18" rx="3"/><rect x="56" y="0" width="18" height="18" rx="3"/><rect x="84" y="0" width="18" height="18" rx="3"/><rect x="112" y="0" width="18" height="18" rx="3"/><rect x="140" y="0" width="18" height="18" rx="3"/><rect x="168" y="0" width="18" height="18" rx="3"/>
+    </g>
+    <g fill="#F1B08D">
+      <rect x="28" y="28" width="18" height="18" rx="3"/><rect x="84" y="56" width="18" height="18" rx="3"/><rect x="140" y="84" width="18" height="18" rx="3"/><rect x="224" y="28" width="18" height="18" rx="3"/><rect x="280" y="56" width="18" height="18" rx="3"/><rect x="336" y="84" width="18" height="18" rx="3"/>
+    </g>
+    <g fill="#B91C1C">
+      <rect x="56" y="56" width="18" height="18" rx="3"/><rect x="112" y="28" width="18" height="18" rx="3"/><rect x="168" y="56" width="18" height="18" rx="3"/><rect x="196" y="84" width="18" height="18" rx="3"/><rect x="252" y="0" width="18" height="18" rx="3"/><rect x="308" y="28" width="18" height="18" rx="3"/><rect x="364" y="56" width="18" height="18" rx="3"/><rect x="420" y="84" width="18" height="18" rx="3"/>
+    </g>
+    <g fill="#7F1D1D">
+      <rect x="84" y="84" width="18" height="18" rx="3"/><rect x="168" y="28" width="18" height="18" rx="3"/><rect x="252" y="56" width="18" height="18" rx="3"/><rect x="336" y="0" width="18" height="18" rx="3"/><rect x="392" y="28" width="18" height="18" rx="3"/><rect x="476" y="56" width="18" height="18" rx="3"/>
+    </g>
+    <path d="M0 112C160 145 235 92 370 125C480 150 592 98 720 126C836 151 954 107 1080 126" stroke="#991B1B" stroke-width="3" stroke-linecap="round" stroke-dasharray="8 10" opacity=".5"/>
+    <g filter="url(#shadow)">
+      <circle cx="30" cy="112" r="12" fill="#991B1B"><animateMotion dur="5s" repeatCount="indefinite" path="M0 0C160 33 235 -20 370 13C480 38 592 -14 720 14C836 39 954 -5 1080 14"/></circle>
+      <path d="M17 111L2 101L8 115L0 125L19 120M39 111L54 101L48 115L56 125L37 120" fill="#7F1D1D"><animateMotion dur="5s" repeatCount="indefinite" path="M0 0C160 33 235 -20 370 13C480 38 592 -14 720 14C836 39 954 -5 1080 14"/></path>
+    </g>
+  </g>
+  <text x="1138" y="220" text-anchor="end" fill="#991B1B" font-family="Georgia, serif" font-size="16" font-style="italic">cada célula guarda uma batalha vencida</text>
+</svg>

@@ -1,88 +1,135 @@
 <div align="center">
-  <img src="./assets/hero.svg" alt="Pedro Artur — Software Engineering Intern" width="100%" />
+  <img src="./assets/samurai-hero.png" alt="Ilustração em sumi-e de um samurai com uma katana sob a lua" width="100%" />
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pedroart-bm/"><img src="https://img.shields.io/badge/LinkedIn-connect-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00e5ff&labelColor=111827&color=dc2626" alt="LinkedIn" /></a>
-  <a href="mailto:pedroart2611@gmail.com"><img src="https://img.shields.io/badge/Email-contact-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00e5ff&labelColor=111827&color=dc2626" alt="Email" /></a>
+
+# Pedro Artur
+
+### Estagiário em Engenharia de Software · Sistemas de Informação
+
+**Construindo sistemas com disciplina de samurai: observar, projetar, executar e evoluir.**
+
+[LinkedIn](https://www.linkedin.com/in/pedroart-bm/) · [Email](mailto:pedroart2611@gmail.com) · Rio de Janeiro, RJ
+
 </div>
 
-<br />
+<div align="center">
+  <img src="./assets/katana-slash.svg" alt="Animação de um corte de katana" width="92%" />
+</div>
 
-## `// sobre mim`
+## Sobre mim
 
-Sou **Pedro Artur**, estagiário em Engenharia de Software e estudante de Sistemas de Informação, no Rio de Janeiro — RJ.
+Eu sou **Pedro Artur**, estagiário em Engenharia de Software e estudante de Sistemas de Informação.
 
-Gosto de transformar problemas reais em produtos funcionais: penso no fluxo, modelo o domínio, construo a API, conecto os dados e levo a solução até a operação. Atualmente, meu foco está em sistemas internos, automações, agentes de IA e experiências web que sejam úteis de verdade.
+Meu interesse está em construir produtos completos: entender um problema, transformar a ideia em regras de negócio, modelar os dados, desenvolver a aplicação e cuidar para que ela continue funcionando depois de ir para produção.
 
-```txt
-modo atual: construir produtos de ponta a ponta
-foco:      backend · IA aplicada · automações · produto
-base:      Rio de Janeiro, Brasil
+Hoje trabalho principalmente com **backend, agentes de IA, automações, APIs e sistemas internos**. Gosto especialmente da parte em que engenharia deixa de ser apenas código e passa a envolver produto, experiência, segurança, operação e decisões reais.
+
+```text
+localização      Rio de Janeiro, Brasil
+atuação atual    Estagiário em Engenharia de Software
+formação         Sistemas de Informação
+interesses       IA aplicada · automações · produto · arquitetura
 ```
 
+## A jornada até aqui
+
+### 01 · Conferência de Cartas
+
+Antes de atuar profissionalmente com tecnologia, eu trabalhava como **jovem aprendiz em uma área que não tinha relação com TI**. Mesmo assim, por iniciativa própria, criei um sistema de **conferência de cartas** para resolver uma necessidade do meu ambiente de trabalho.
+
+Esse projeto representa o começo da minha jornada: perceber um problema, estudar o necessário e criar uma ferramenta útil mesmo sem estar formalmente na área de desenvolvimento.
+
+### 02 · Unimangas
+
+No **segundo período da graduação**, desenvolvi o Unimangas como trabalho acadêmico. Apesar de ser um projeto de faculdade, ele registra uma etapa importante da minha evolução: sair de experimentos individuais e começar a pensar em uma aplicação com interface, organização de conteúdo e experiência de uso.
+
+### 03 · Hermix
+
+Hoje, o Hermix é o projeto que mais representa minha evolução técnica e profissional.
+
 <div align="center">
-  <img src="./assets/katana-divider.svg" alt="Divisor visual inspirado em uma katana" width="86%" />
+  <img src="./assets/hermix-stamp.svg" alt="Selo Hermix, sistema interno de agentes de IA" width="260" />
 </div>
 
-## `// projeto principal — HERMIX`
+## Hermix, meu principal case de engenharia
 
-### Sistema interno de agentes de IA
+O **Hermix** é um sistema interno de agentes de IA da MB Finance, criado para administrar, testar, versionar e governar agentes integrados à OpenAI Responses API, tools, automações e sistemas internos.
 
-O **Hermix** é o principal projeto da minha trajetória até aqui: um sistema interno de agentes de IA criado para centralizar gestão, configuração, testes, versionamento e governança de agentes conectados à OpenAI Responses API, tools, automações e sistemas internos.
+Eu desenvolvo o Hermix **do zero e de ponta a ponta**. Isso inclui:
 
-Eu desenvolvo o Hermix de ponta a ponta — desde o nome e a identidade visual até a arquitetura, frontend, backend, banco de dados, regras de negócio, segurança e operação.
+* criação do nome e da identidade visual;
+* definição da arquitetura e das regras de negócio;
+* frontend em React/Vite/Tailwind CSS;
+* backend em Node.js/Express;
+* modelagem e evolução do PostgreSQL/Neon;
+* autenticação, permissões e perfis de acesso;
+* versionamento, clonagem, publicação e arquivamento de agentes;
+* playground para testes internos e conversas com agentes;
+* integração com Responses API, File Search, Code Interpreter e Function Calling;
+* auditoria operacional e contexto de requisição;
+* uploads temporários e downloads seguros;
+* deploy e operação em VPS Linux com PM2 e Nginx.
 
-<table>
-  <tr>
-    <td width="50%"><b>Construção</b><br />Produto, identidade, UX, frontend, backend e modelagem de dados.</td>
-    <td width="50%"><b>Engenharia</b><br />Permissões granulares, auditoria, versionamento, execução segura e integrações.</td>
-  </tr>
-  <tr>
-    <td><b>Stack</b><br />Node.js, Express, React, Vite, Tailwind CSS, PostgreSQL/Neon e OpenAI API.</td>
-    <td><b>Operação</b><br />VPS Linux, PM2, Nginx, HTTPS e deploy controlado.</td>
-  </tr>
-</table>
+### O que estou construindo
 
-> O Hermix é um sistema interno e seu código não é público. Por segurança, este perfil apresenta apenas o contexto técnico e as responsabilidades que posso divulgar — sem expor código, credenciais, domínios, IPs ou dados de negócio.
+```text
+React / Vite / Tailwind
+          │
+          ▼
+Node.js / Express / REST API
+          │
+          ├── PostgreSQL / Neon
+          ├── OpenAI Responses API
+          ├── File Search + Code Interpreter
+          ├── Functions internas com allowlist
+          └── Base para n8n, WhatsApp e sistemas internos
+```
+
+O código do Hermix é privado. Este perfil apresenta apenas responsabilidades, decisões técnicas e capacidades que podem ser divulgadas; nenhum código, token, domínio, IP, dado de cliente ou detalhe operacional sensível é exposto aqui.
+
+> As contribuições privadas podem aparecer anonimizadas no gráfico de atividade do GitHub. A quantidade específica de commits do Hermix será adicionada somente quando estiver validada e autorizada para divulgação.
+
+## Stack e ferramentas
+
+### Desenvolvimento
 
 <div align="center">
-  <sub>Contribuições privadas podem aparecer de forma anonimizada no gráfico de atividade do GitHub.</sub>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,vite,tailwind,postgres,redis,docker,linux&theme=light" alt="Node.js, Express, React, Vite, Tailwind CSS, PostgreSQL, Redis, Docker e Linux" />
 </div>
 
-## `// arsenal técnico`
+### IA, automação e infraestrutura
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,vite,tailwind,postgres,redis,docker,linux&theme=dark" alt="Node.js, Express, React, Vite, Tailwind CSS, PostgreSQL, Redis, Docker e Linux" />
-  <br /><br />
-  <img src="https://img.shields.io/badge/OpenAI_API-111827?style=flat-square&logo=openai&logoColor=00e5ff" alt="OpenAI API" />
-  <img src="https://img.shields.io/badge/REST_APIs-111827?style=flat-square&logo=fastapi&logoColor=dc2626" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/BullMQ-111827?style=flat-square&logo=redis&logoColor=dc2626" alt="BullMQ" />
-  <img src="https://img.shields.io/badge/n8n-111827?style=flat-square&logo=n8n&logoColor=ff5c5c" alt="n8n" />
-  <img src="https://img.shields.io/badge/ElevenLabs-111827?style=flat-square&logoColor=00e5ff" alt="ElevenLabs" />
+  <img src="https://img.shields.io/badge/OpenAI_Responses_API-292524?style=for-the-badge&logo=openai&logoColor=F5F5F4" alt="OpenAI Responses API" />
+  <img src="https://img.shields.io/badge/Redis_%2B_BullMQ-292524?style=for-the-badge&logo=redis&logoColor=DC2626" alt="Redis e BullMQ" />
+  <img src="https://img.shields.io/badge/n8n-292524?style=for-the-badge&logo=n8n&logoColor=EA580C" alt="n8n" />
+  <img src="https://img.shields.io/badge/ElevenLabs-292524?style=for-the-badge&logoColor=F5F5F4" alt="ElevenLabs" />
+  <img src="https://img.shields.io/badge/REST_APIs-292524?style=for-the-badge&logoColor=DC2626" alt="REST APIs" />
 </div>
 
-## `// projetos públicos`
+## O que esses projetos mostram
 
-| Projeto | O que representa |
-| --- | --- |
-| **Conferência de Cartas** | Um projeto de experimentação e construção de produto em torno de cartas e interação digital. |
-| **Unimangas** | Uma aplicação voltada para leitura e organização de mangás, unindo interface, dados e experiência de usuário. |
+| Etapa | Projeto | O que aprendi construindo |
+| --- | --- | --- |
+| Iniciativa | Conferência de Cartas | Tecnologia pode nascer de uma necessidade real, mesmo fora da área de TI. |
+| Formação | Unimangas | Como transformar um trabalho acadêmico em uma aplicação organizada e utilizável. |
+| Profissional | Hermix | Como conduzir um produto completo: ideia, domínio, arquitetura, código, segurança e operação. |
 
-> Estes projetos mostram meu caminho público. O Hermix representa minha experiência mais completa de engenharia e desenvolvimento de produto.
+Minha evolução não aconteceu apenas pela quantidade de tecnologias estudadas. Ela aconteceu porque cada projeto me obrigou a assumir mais responsabilidade sobre o resultado final.
 
-## `// contato`
+## Vamos conversar?
 
-Se você quiser conversar sobre engenharia de software, produtos com IA, automações ou construção de sistemas:
+Tenho interesse em conversar sobre engenharia de software, agentes de IA, automações, backend e construção de produtos.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/pedroart-bm/">LinkedIn</a>
-  ·
-  <a href="mailto:pedroart2611@gmail.com">pedroart2611@gmail.com</a>
+  <a href="https://www.linkedin.com/in/pedroart-bm/"><img src="https://img.shields.io/badge/LinkedIn- Pedro Artur-7F1D1D?style=for-the-badge&logo=linkedin&logoColor=FEF3C7" alt="LinkedIn de Pedro Artur" /></a>
+  <a href="mailto:pedroart2611@gmail.com"><img src="https://img.shields.io/badge/Email-pedroart2611%40gmail.com-292524?style=for-the-badge&logo=gmail&logoColor=FEF3C7" alt="Email de Pedro Artur" /></a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:7f1d1d,100:dc2626&height=90&section=footer" alt="Encerramento visual vermelho e azul escuro" width="100%" />
+  <sub>一歩ずつ, um passo de cada vez.</sub>
 </div>

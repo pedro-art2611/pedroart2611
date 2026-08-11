@@ -1,0 +1,17 @@
+<svg width="1000" height="58" viewBox="0 0 1000 58" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Katana divider</title>
+  <desc id="desc">Divisor horizontal com uma linha de energia ciano e vermelho.</desc>
+  <path d="M24 29H976" stroke="#1F2937" stroke-width="2"/>
+  <path d="M24 29H710" stroke="url(#line)" stroke-width="3" stroke-linecap="round">
+    <animate attributeName="stroke-dashoffset" from="700" to="0" dur="2s" repeatCount="indefinite"/>
+  </path>
+  <path d="M710 29L755 13L743 29L755 45L710 29Z" fill="#DC2626"/>
+  <circle cx="24" cy="29" r="5" fill="#22D3EE"/>
+  <defs>
+    <linearGradient id="line" x1="24" y1="29" x2="710" y2="29" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset=".78" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#DC2626"/>
+    </linearGradient>
+  </defs>
+</svg>
